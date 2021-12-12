@@ -10,7 +10,7 @@ namespace DataAccess.Concrete.EntityFremework.Contexts
     {
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlServer(connectionString: @"Server=DESKTOP-0F3TA7A;Database=personsDB;Trusted_Connection=true");
+            optionsBuilder.UseSqlServer(connectionString: @"Server=DESKTOP-0F3TA7A;Database=persondB;Trusted_Connection=true");
         }
         public DbSet<Person> Persons { get; set; }
     }
