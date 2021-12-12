@@ -5,4 +5,4 @@ Adım 2: Tool dan NuGet Package Manager seçeneği ile Package Manager Console a
 Adım 3: Çıkan consoldan Default projectden DataAccess seçiniz
 Adım 4: consola "update-database" kodunu yazarak entere basınız bu sayede 1. adımda ki sunucuya veritabanı ve içindedeki modellere göre tablolar oluşacak
 
-Ve projeyi projeyi WebApi başlangıcını seçerek çalıştırabilirsiniz.
+Ve projeyi WebApi başlangıcını seçerek çalıştırabilirsiniz.
